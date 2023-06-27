@@ -12,7 +12,7 @@
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/nodejs-#339933?style=flat-square&logo=nodejs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=nodejs&logoColor=white)
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <!--
 **cch0807/cch0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
