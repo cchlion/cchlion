@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+
+# BOJ stats
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1101)](https://solved.ac/ckdgus1101)
+
 
 <!--
 **cch0807/cch0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
