@@ -8,7 +8,7 @@
 ### Language
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white)
 <!--
 **cch0807/cch0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
