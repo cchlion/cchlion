@@ -8,6 +8,7 @@ Hello 🙃, I'm Changhyeon.
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat-square&logo=java&logoColor=white)
 <br>
 ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 
