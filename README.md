@@ -27,9 +27,10 @@ Hello 🙃, I'm thoughtful developer Chang-Hyeon.
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat-square&logo=Google%20Colab&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=flat-square&logo=Postman&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
 <br>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white)
