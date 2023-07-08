@@ -18,6 +18,8 @@ Hello 🙃, I'm thoughtful developer Chang-Hyeon.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?&style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?&style=flat-square&logo=Redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=MongoDB&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?&style=flat-square&logo=SQLite&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?&style=flat-square&logo=ClickHouse&logoColor=white)
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
