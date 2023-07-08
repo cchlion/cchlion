@@ -29,12 +29,12 @@ Hello 🙃, I'm thoughtful developer Chang-Hyeon.
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
 <br>
-![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack%20Actions&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion%20Actions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?&style=flat-square&logo=Jira%20Actions&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?&style=flat-square&logo=Trello%20Actions&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?&style=flat-square&logo=Jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?&style=flat-square&logo=Trello&logoColor=white)
 <br>
-![Shields.io](https://img.shields.io/badge/Shield.io-000000?&style=flat-square&logo=Shield.io%20Actions&logoColor=white)
+![Shields.io](https://img.shields.io/badge/Shields.io-000000?&style=flat-square&logo=Shields.io&logoColor=white)
 
 
 # 🌱 BOJ stats
