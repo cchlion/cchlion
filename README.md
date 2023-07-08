@@ -2,7 +2,7 @@
 
 Hello 🙃, I'm thoughtful developer Chang-Hyeon.
 
-# 💻 STACK
+# 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white)
