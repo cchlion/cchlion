@@ -6,6 +6,7 @@ Hello 🙃, I'm thoughtful developer Chang-Hyeon.
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?&style=flat-square&logo=Linux&logoColor=white)
 <br>
 ![Django](https://img.shields.io/badge/django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -27,6 +28,14 @@ Hello 🙃, I'm thoughtful developer Chang-Hyeon.
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
+<br>
+![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack%20Actions&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion%20Actions&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?&style=flat-square&logo=Jira%20Actions&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?&style=flat-square&logo=Trello%20Actions&logoColor=white)
+<br>
+![Shields.io](https://img.shields.io/badge/Shield.io-000000?&style=flat-square&logo=Shield.io%20Actions&logoColor=white)
+
 
 # 🌱 BOJ stats
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1101)](https://solved.ac/ckdgus1101)
