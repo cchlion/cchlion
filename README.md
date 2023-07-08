@@ -1,6 +1,6 @@
 <div align="center">
 
-Hello 🙃, I'm Changhyeon.
+Hello 🙃, I'm thoughtful developer Chang-Hyeon.
 
 # 💻 STACK
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
@@ -14,6 +14,9 @@ Hello 🙃, I'm Changhyeon.
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?&style=flat-square&logo=PostgreSQL&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?&style=flat-square&logo=Redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=MongoDB&logoColor=white)
 <br>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
@@ -25,7 +28,7 @@ Hello 🙃, I'm Changhyeon.
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
 
-# 💪 BOJ stats
+# 🌱 BOJ stats
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1101)](https://solved.ac/ckdgus1101)
 <!--
 **cch0807/cch0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
