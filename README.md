@@ -1,7 +1,7 @@
 <div align="center">
   
----
-Hello 🙃, I'm thoughtful developer Chang-Hyeon.
+Hello 🙃, I'm thoughtful developer ChangHyeon.
+
 # 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
@@ -39,11 +39,9 @@ Hello 🙃, I'm thoughtful developer Chang-Hyeon.
 <br>
 ![Shields.io](https://img.shields.io/badge/Shields.io-000000?&style=flat-square&logo=Shields.io&logoColor=white)
 
-
 # 🌱 BOJ stats
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1101)](https://solved.ac/ckdgus1101)
 
----
 <!--
 **cch0807/cch0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
