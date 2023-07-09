@@ -1,6 +1,6 @@
 <div align="center">
   
-# 🙋‍♂️Intro
+---
 Hello 🙃, I'm thoughtful developer Chang-Hyeon.
 # 💻 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
