@@ -14,17 +14,10 @@ Hello 🙃, I'm thoughtful developer ChangHyeon.
 ![Express](https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white)
 <br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=flat-square&logo=MariaDB&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?&style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?&style=flat-square&logo=Redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=MongoDB&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?&style=flat-square&logo=SQLite&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?&style=flat-square&logo=ClickHouse&logoColor=white)
-<br>
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=flat-square&logo=IntelliJ%20IDEA&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?&style=flat-square&logo=Google%20Colab&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
