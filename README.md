@@ -32,7 +32,7 @@ Hello 🙃, I'm thoughtful developer ChangHyeon.
 <br>
 ![Shields.io](https://img.shields.io/badge/Shields.io-000000?&style=flat-square&logo=Shields.io&logoColor=white)
 
-# 🌱 BOJ stats
+# 🌱 BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1101)](https://solved.ac/ckdgus1101)
 
 <!--
