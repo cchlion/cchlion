@@ -17,13 +17,13 @@ Hello 🙃, I'm thoughtful developer ChangHyeon.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?&style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?&style=flat-square&logo=Redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?&style=flat-square&logo=MongoDB&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?&style=flat-square&logo=ClickHouse&logoColor=white)
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?&style=flat-square&logo=Postman&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat-square&logo=Docker&logoColor=white)
 <br>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white)
