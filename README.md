@@ -20,9 +20,10 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=flat-square&logo=Kubernetes&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689.svg?&style=flat-square&logo=Helm&logoColor=white)
 ![Argo](https://img.shields.io/badge/Argo-EF7B4D.svg?&style=flat-square&logo=Argo&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?&style=flat-square&logo=Terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?&style=flat-square&logo=Amazon%20AWS&logoColor=white)
 <br>
 ![Slack](https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white)
