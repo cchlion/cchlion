@@ -31,6 +31,8 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?&style=flat-square&logo=Trello&logoColor=white)
 <br>
 
+[CKA](https://www.credly.com/badges/53c5e349-8dcd-4333-8f4d-2ad4a82ecfc7/public_url)
+
 # 🌱 BOJ
 [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1101)](https://solved.ac/ckdgus1101)
 
