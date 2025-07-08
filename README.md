@@ -30,13 +30,11 @@
 <br>
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?&style=flat-square&logo=Terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?&style=flat-square&logo=Ansible&logoColor=white)
+<br>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ckdgus1101)](https://solved.ac/ckdgus1101)
 
 <img src="https://github.com/user-attachments/assets/db3a11a3-3ad5-4aff-8af9-2a66403a7a69" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/6dbe38ca-b46a-4354-afe4-50a9c61dfe3e" width="150" height="150">
-
-# 🌱 BOJ
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=ckdgus1101)](https://solved.ac/ckdgus1101)
-
 <!--
 **cch0807/cch0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
