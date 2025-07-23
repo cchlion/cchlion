@@ -26,7 +26,6 @@
 <br>
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat-square&logo=Git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?&style=flat-square&logo=GitHub%20Actions&logoColor=white)
-<br>
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA.svg?&style=flat-square&logo=Terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000.svg?&style=flat-square&logo=Ansible&logoColor=white)
 <br>
