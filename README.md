@@ -1,4 +1,4 @@
-<div align="center">
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/66e3eb0d-9b18-4549-8565-4aa9e4a46a12" /><div align="center">
   
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
@@ -27,6 +27,8 @@
 
 <img src="https://github.com/user-attachments/assets/db3a11a3-3ad5-4aff-8af9-2a66403a7a69" width="150" height="150">
 <img src="https://github.com/user-attachments/assets/6dbe38ca-b46a-4354-afe4-50a9c61dfe3e" width="150" height="150">
+<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/858d0ca4-3372-4fee-a4c6-be1df96aa2d6" />
+
 <!--
 **cch0807/cch0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
