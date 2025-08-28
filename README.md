@@ -1,5 +1,4 @@
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/66e3eb0d-9b18-4549-8565-4aa9e4a46a12" /><div align="center">
-  
+
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white)
